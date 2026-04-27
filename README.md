@@ -24,4 +24,4 @@ O projeto será desenvolvido em etapas pelo grupo:
 3.  **Desenvolvimento do Protótipo:**
     * Linguagem: **Python**.
     * Bibliotecas: `scikit-fuzzy`, `numpy`.
-4.  **Documentação:** Justificativa das escolhas técnicas e análise dos resultados obtidos.
+
